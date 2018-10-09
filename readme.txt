@@ -5,4 +5,4 @@ this is a test
 
 modified in dev branch.
 
-modified in branch master.
+modified in branch dev.
