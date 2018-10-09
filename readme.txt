@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 this is a test
 
 modified in dev branch.
+modified in branch master.
